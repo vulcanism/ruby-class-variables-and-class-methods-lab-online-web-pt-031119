@@ -18,6 +18,8 @@ class Song
     @@genres = @@genres.uniq
   end
   
-  
+  def self.artists
+    
+  end
   
 end
